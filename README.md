@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on ...  An Angular project
 - 🤔 I’m looking for help with ... Nothing as off right now
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... Built my first pc at 12
+- ⚡ Fun fact: ... Been a computer nerd my whole life
