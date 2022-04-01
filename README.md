@@ -7,3 +7,4 @@
 - 🤔 I’m looking for help with ... Nothing as off right now
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Built my first pc at 12
+ 
