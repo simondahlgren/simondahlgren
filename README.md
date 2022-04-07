@@ -21,7 +21,7 @@
 <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/>
 <img align="left" alt="jQuery" width="40px" src="https://androidstandard.com/swe/wp-content/uploads/2019/12/Vad-ar-jQuery-Lar-kanna-definitionen-av-jQuery-och-dess.gif"/>
 <img align="left" alt="Entity Framework" width="40px" src="https://aspnetboilerplate.com/images/logos/tools/ef.png"/>
-<img align="left" alt="ASP.Net" width="40px" src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png"/>
+<img align="left" alt="ASP.Net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"/>
 <br />
 <br />
 <br />
