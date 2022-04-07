@@ -7,3 +7,4 @@
 - 🤔 I’m looking for help with ... Nothing as off right now
 - 💬 Ask me about ... Anything
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
