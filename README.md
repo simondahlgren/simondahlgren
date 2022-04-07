@@ -19,7 +19,7 @@
 <img align="left" alt="Angular" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
 <img align="left" alt="Kaboom" width="40px" src="https://raw.githubusercontent.com/replit/kaboom/HEAD/kaboom.png"/>
-<img align="left" alt="jQuery" width="40px" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png"/>
+<img align="left" alt="jQuery" width="40px" src="https://androidstandard.com/swe/wp-content/uploads/2019/12/Vad-ar-jQuery-Lar-kanna-definitionen-av-jQuery-och-dess.gif"/>
 
 <br />
 <br />
