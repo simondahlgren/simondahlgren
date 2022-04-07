@@ -18,7 +18,7 @@
 <img align="left" alt="C#" width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="Angular" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
 <img align="left" alt="Bootstrap" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
-<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/>
+<img align="left" alt="PostgreSQL" width="40px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/>
 <img align="left" alt="jQuery" width="40px" src="https://androidstandard.com/swe/wp-content/uploads/2019/12/Vad-ar-jQuery-Lar-kanna-definitionen-av-jQuery-och-dess.gif"/>
 <img align="left" alt="Entity Framework" width="40px" src="https://aspnetboilerplate.com/images/logos/tools/ef.png"/>
 <img align="left" alt="ASP.Net" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"/>
