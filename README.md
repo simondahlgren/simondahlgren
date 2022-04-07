@@ -8,4 +8,4 @@
 - 💬 Ask me about ... Anything
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simondahlgren&layout=compact)](https://github.com/simondahlgren/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simondahlgren&show_icons=true&theme=dark)
+
