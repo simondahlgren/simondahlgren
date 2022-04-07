@@ -20,6 +20,8 @@
 <img align="left" alt="Bootstrap" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
 <img align="left" alt="Kaboom" width="40px" src="https://raw.githubusercontent.com/replit/kaboom/HEAD/kaboom.png"/>
 <img align="left" alt="jQuery" width="40px" src="https://androidstandard.com/swe/wp-content/uploads/2019/12/Vad-ar-jQuery-Lar-kanna-definitionen-av-jQuery-och-dess.gif"/>
+<img align="left" alt="Entity Framework" width="40px" src="https://cdn.pellerex.com/public/ecosystem/web/content/api-database/asp-net-5-web-api-database-setup-with-entity-framework.png
+"/>
 
 <br />
 <br />
