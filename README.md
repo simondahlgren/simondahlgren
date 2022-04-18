@@ -16,7 +16,6 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C#" width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
 <img align="left" alt="PostgreSQL" width="40px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/>
 <img align="left" alt="jQuery" width="40px" src="https://androidstandard.com/swe/wp-content/uploads/2019/12/Vad-ar-jQuery-Lar-kanna-definitionen-av-jQuery-och-dess.gif"/>
 <img align="left" alt="Entity Framework" width="40px" src="https://aspnetboilerplate.com/images/logos/tools/ef.png"/>
